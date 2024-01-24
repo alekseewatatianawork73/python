@@ -1,4 +1,12 @@
 # Основы python (дополнительные задачи)
+## Задачи на условия
+1. https://informatics.msk.ru/mod/statements/view.php?id=276#1
+2. https://informatics.msk.ru/mod/statements/view.php?id=276&chapterid=293#1
+3. https://informatics.msk.ru/mod/statements/view.php?id=276&chapterid=294#1
+4. https://informatics.msk.ru/mod/statements/view.php?id=276&chapterid=264#1
+5. https://informatics.msk.ru/mod/statements/view.php?id=276&chapterid=296#1
+6. https://informatics.msk.ru/mod/statements/view.php?id=276&chapterid=1451#1
+7. https://informatics.msk.ru/mod/statements/view.php?id=276&chapterid=2961#1
 ## Задачи на цикл while
 1. https://informatics.msk.ru/mod/statements/view.php?id=249#1
 2. https://informatics.msk.ru/mod/statements/view.php?id=249&chapterid=3058#1
