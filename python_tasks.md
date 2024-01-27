@@ -58,3 +58,8 @@
 10. https://informatics.msk.ru/mod/statements/view.php?id=2685&chapterid=3126#1
 11. https://informatics.msk.ru/mod/statements/view.php?id=2685&chapterid=3128#1
 12. https://informatics.msk.ru/mod/statements/view.php?id=2685&chapterid=3129#1
+## Задачи на множества
+1. https://informatics.msk.ru/mod/statements/view.php?chapterid=3751#1
+2. https://informatics.msk.ru/mod/statements/view.php?chapterid=3753#1
+3. https://informatics.msk.ru/mod/statements/view.php?chapterid=3755#1
+4. https://informatics.msk.ru/mod/statements/view.php?chapterid=3757#1 
