@@ -62,4 +62,5 @@
 1. https://informatics.msk.ru/mod/statements/view.php?chapterid=3751#1
 2. https://informatics.msk.ru/mod/statements/view.php?chapterid=3753#1
 3. https://informatics.msk.ru/mod/statements/view.php?chapterid=3755#1
-4. https://informatics.msk.ru/mod/statements/view.php?chapterid=3757#1 
+4. https://informatics.msk.ru/mod/statements/view.php?chapterid=3757#1
+## Задачи на вложенные списки
