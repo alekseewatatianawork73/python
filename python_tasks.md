@@ -69,3 +69,5 @@
 3. https://informatics.msk.ru/mod/statements/view.php?id=282&chapterid=359#1
 4. https://informatics.msk.ru/mod/statements/view.php?id=282&chapterid=361#1
 5. https://informatics.msk.ru/mod/statements/view.php?id=282&chapterid=362#1
+6. https://informatics.msk.ru/mod/statements/view.php?id=282&chapterid=363#1
+7. https://informatics.msk.ru/mod/statements/view.php?id=282&chapterid=365#1
