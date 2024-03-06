@@ -71,3 +71,4 @@
 5. https://informatics.msk.ru/mod/statements/view.php?id=282&chapterid=362#1
 6. https://informatics.msk.ru/mod/statements/view.php?id=282&chapterid=363#1
 7. https://informatics.msk.ru/mod/statements/view.php?id=282&chapterid=365#1
+8. https://codeforces.com/problemset/problem/263/A
