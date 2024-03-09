@@ -72,3 +72,10 @@
 6. https://informatics.msk.ru/mod/statements/view.php?id=282&chapterid=363#1
 7. https://informatics.msk.ru/mod/statements/view.php?id=282&chapterid=365#1
 8. https://codeforces.com/problemset/problem/263/A
+## Задачи на словари
+1. https://informatics.msk.ru/mod/statements/view.php?id=25999#1
+2. https://informatics.msk.ru/mod/statements/view.php?id=25999&chapterid=3765#1
+3. https://informatics.msk.ru/mod/statements/view.php?id=25999&chapterid=112432#1
+4. https://informatics.msk.ru/mod/statements/view.php?id=25999&chapterid=3762#1
+5. https://informatics.msk.ru/mod/statements/view.php?id=25999&chapterid=112510#1
+6. https://informatics.msk.ru/mod/statements/view.php?id=73529#1
