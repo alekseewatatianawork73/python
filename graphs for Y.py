@@ -39,7 +39,7 @@ plt.xlabel("y")
 p.legend(loc='upper left')
 # отметки
 x_all_unique = list(set(x_all_hist + [x_right_hist] + x_all_pol))
-y_all_unique = list(set(y_all_hist + y_all_pol))
+y_all_unique = list(set(y_all_hist + y_all_pol + [f_val]))
 p.xaxis.set_major_locator(FixedLocator(x_all_unique))
 p.yaxis.set_major_locator(FixedLocator(y_all_unique))
 # вывод
