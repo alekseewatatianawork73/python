@@ -1,4 +1,4 @@
-# Графики для X: гистограмма, полигон, ПРВ для нормального распределения
+# Графики для X: гистограмма, полигон, ПРВ для экспоненциального распределения
 import numpy as np
 from scipy.stats import expon
 import matplotlib.pyplot as plt
