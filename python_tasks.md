@@ -79,3 +79,7 @@
 4. https://informatics.msk.ru/mod/statements/view.php?id=25999&chapterid=3762#1
 5. https://informatics.msk.ru/mod/statements/view.php?id=25999&chapterid=112510#1
 6. https://informatics.msk.ru/mod/statements/view.php?id=73529#1
+7. http://ulivt.ru:8082/ru/problem-pid-c673?ps=15&smt=7&smpwid=0
+8. http://ulivt.ru:8082/ru/problem-pid-c677?ps=15&smt=9&smpwid=0
+9. http://ulivt.ru:8082/ru/problem-pid-c676?ps=15&smt=9&smpwid=0
+10. http://ulivt.ru:8082/ru/problem-pid-c549?ps=15&smt=7&smpwid=0
