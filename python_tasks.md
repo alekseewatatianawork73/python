@@ -83,3 +83,9 @@
 8. http://ulivt.ru:8082/ru/problem-pid-c677?ps=15&smt=9&smpwid=0
 9. http://ulivt.ru:8082/ru/problem-pid-c676?ps=15&smt=9&smpwid=0
 10. http://ulivt.ru:8082/ru/problem-pid-c549?ps=15&smt=7&smpwid=0
+## Дополнительные задачи на матрицы
+1. https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=8&id_topic=121&id_problem=750
+2. https://acmp.ru/asp/do/index.asp?main=topic&id_course=1&id_section=8&id_topic=122
+3. https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=8&id_topic=122&id_problem=760
+4. https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=8&id_topic=122&id_problem=761
+5. https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=8&id_topic=120&id_problem=747
