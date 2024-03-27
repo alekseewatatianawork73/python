@@ -91,3 +91,6 @@
 5. https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=8&id_topic=120&id_problem=747
 6. https://acmp.ru/index.asp?main=task&id_task=715
 7. https://acmp.ru/index.asp?main=task&id_task=924
+8. http://ulivt.ru:8082/ru/problem-pid-c5c3?ps=17&smt=7&smpwid=0
+9. http://ulivt.ru:8082/ru/problem-pid-c5c8?ps=17&smt=7&smpwid=0
+10. http://ulivt.ru:8082/ru/problem-pid-c5c5?ps=17&smt=7&smpwid=0
