@@ -95,3 +95,12 @@
 9. http://ulivt.ru:8082/ru/problem-pid-c5c8?ps=17&smt=7&smpwid=0
 10. http://ulivt.ru:8082/ru/problem-pid-c5c5?ps=17&smt=7&smpwid=0
 11. http://ulivt.ru:8082/ru/problem-pid-c5c1?ps=17&smt=7&smpwid=0 
+## Задачи на функции (простые)
+1. https://informatics.msk.ru/mod/statements/view.php?id=277#1
+2. https://informatics.msk.ru/mod/statements/view.php?id=277&chapterid=308#1
+3. https://informatics.msk.ru/mod/statements/view.php?id=277&chapterid=309#1
+4. https://informatics.msk.ru/mod/statements/view.php?id=277&chapterid=252#1
+5. http://ulivt.ru:8082/ru/problem-pid-c5e5?ps=15&smt=7&smpwid=0
+6. http://ulivt.ru:8082/ru/problem-pid-c5e4?ps=15&smt=7&smpwid=0
+7. http://ulivt.ru:8082/ru/problem-pid-c5df?ps=15&smt=9&smpwid=0
+## Задачи на функции (рекурсия)
