@@ -1,4 +1,10 @@
 # Основы python (дополнительные задачи)
+## Задачи на арифметику
+1. https://informatics.msk.ru/mod/statements/view.php?id=2296&chapterid=2936#1
+2. https://informatics.msk.ru/mod/statements/view.php?id=2296&chapterid=2937#1
+3. https://informatics.msk.ru/mod/statements/view.php?id=2296&chapterid=2938#1
+4. https://informatics.msk.ru/mod/statements/view.php?id=2296&chapterid=2939#1
+5. https://informatics.msk.ru/mod/statements/view.php?id=2296&chapterid=2941#1 
 ## Задачи на условия
 1. https://informatics.msk.ru/mod/statements/view.php?id=276#1
 2. https://informatics.msk.ru/mod/statements/view.php?id=276&chapterid=293#1
