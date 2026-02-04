@@ -46,7 +46,7 @@ btn = ctk.CTkButton(master=root)
 btn.configure(font=ctk.CTkFont(family='Arial', size=20, weight='bold'), text='Кнопка',
               fg_color='red', hover_color='orange', text_color='blue', cursor='hand2', command=press)
 btn.grid(row=2, column=3, padx=10, pady=10, sticky='nsew')
-# cursor: hand2, cross, wait
+# cursor: hand2, cross, wait, arrow
 
 # бесконечный цикл для отображения окна
 root.mainloop()
