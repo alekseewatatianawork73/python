@@ -61,4 +61,45 @@ if 'fox' in animals:
 if 'tiger' not in animals:
     print('У нас нет статьи о тигре.')
 
-# поиск статьи при помощи метода get()
+# поиск статьи при помощи метода get(): ищем статью про волка
+my_art = animals.get('wolf')
+print(my_art)  # => The wolf, also known as the grey wolf or gray wolf, is a canine native to Eurasia and North America...
+
+# поиск несуществующей статьи
+not_art = animals.get('cat')
+print(not_art)  # => None - пустое значение
+
+# можем заменить None, добавив второй аргумент в get()
+not_art = animals.get('cat', 'Несуществующая статья')
+print(not_art)  # => Несуществующая статья
+
+# вывод всех ключей и значений словаря при помощи перебора
+for animal in animals:
+    print(animal, animals[animal], sep=' - ')
+ ''' => 
+fox - Foxes are small-to-medium-sized omnivorous mammals belonging to several genera...
+hare - New article about hare...
+wolf - The wolf, also known as the grey wolf or gray wolf, is a canine native to Eurasia and North America...
+bear - Bears are carnivoran mammals of the family Ursidae. They are classified as...
+'''
+
+# метод keys() возвращает все ключи словаря, values() - все значения
+names = list(animals.keys())  # список ключей - названий животных
+articles = list(animals.values())  # список значений - статей о животных
+
+# метод items() - возвращает пары ключ/значение, можно использовать для вывода
+for animal, article in animals.items():
+    print(animal, article, sep=' - ')
+
+
+# считывание словарей: Дано n строк с фамилиями и именами людей. Требуется по конкретной фамилии определить имя ученика.
+
+n = int(input())  # количество людей (длина словаря)
+people = {}  # пустой словарь для хранения фамилий и имен
+# проходимся по каждой из n строк
+for i in range(n):
+    surname, name = input().split()  # считываем фамилию и имя в переменные surname и name
+    people[surname] = name  # добавляем в словарь новый ключ surname со значением name
+
+my_surname = input()  # считываем с экрана какую-то фамилию
+print(people[my_surname])  # получаем значение-имя из словаря people по ключу my_surname
