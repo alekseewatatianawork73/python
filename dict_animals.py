@@ -38,6 +38,27 @@ print(animals['hare'])  # => New article about hare...
 # добавление нового элемента в словарь: добавим статью о медведе
 animals['bear'] = 'Bears are carnivoran mammals of the family Ursidae. They are classified as...'
 
-# удаление элементов из словаря
+# удаление элементов из словаря при помощи del
 del animals['hare']
 print(animals['hare'])  # => ошибка: KeyError: 'hare' - такого ключа больше нет в словаре
+
+# удаление элементов из словаря при помощи pop
+d = animals.pop('hare')
+print(d)  # => New article about hare...
+print(animals['hare'])  # => ошибка: KeyError: 'hare' - такого ключа больше нет в словаре
+
+# что будет, если попробовать удалить несуществующий элемент
+d = animals.pop('cat')
+print(d)  # => KeyError: 'cat' - такого ключа нет в словаре
+
+# чтобы ошибка не выводилась, можно добавить в pop() второй аргумент - он будет выводиться, если ключа нет в словаре
+d = animals.pop('cat', 'Такой статьи нет в словаре')
+print(d)  # => Такой статьи нет в словаре
+
+# проверка наличия или отсутствия элемента в словаре
+if 'fox' in animals:
+    print('У нас есть статья про лису.')
+if 'tiger' not in animals:
+    print('У нас нет статьи о тигре.')
+
+# поиск статьи при помощи метода get()
